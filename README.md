@@ -7,8 +7,8 @@ membuat baru untuk mencoba yang namanya github
 - membuat README
 - mengenal git
 
-*14 juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+<p> *14 juni 2021<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)</p>
 
 - Belajar tentang apa itu Java dan alasan menggunakannya.
 
@@ -16,13 +16,14 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 
 *15 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+<strong><p>Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)</p></strong>
+<ul>
+ <li>  Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.</li>
 
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+ <li>  Belajar control flow dalam Java, seperti perulangan dan percabangan.</li>
 
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+ <li>  Belajar tipe data koleksi, seperti list, set, dan map.</li>
+ </ul>
 
 
 
